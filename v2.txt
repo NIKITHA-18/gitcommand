@@ -1,1 +1,7 @@
 git commands we ll see
+hello
+world
+python
+java
+linux
+unix
